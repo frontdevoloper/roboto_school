@@ -237,7 +237,7 @@ body {
 }
 
 .main-view__offer {
-    background: url('/img/main-view-mobile.png') bottom center/100% auto no-repeat;
+    background: url('../img/main-view-mobile.png') bottom center/100% auto no-repeat;
     display: flex;
     flex-direction: column;     
     height: 70vh;
