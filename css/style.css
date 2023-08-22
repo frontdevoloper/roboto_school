@@ -222,13 +222,11 @@ body {
     transform: translate(-50%, 0%) rotate(45deg);  
 }
 
-.header__nav-btn span:nth-of-type(3) {
-    width: 20px;
+.header__nav-btn span:nth-of-type(3) {    
     top: calc(50% + 5px);
 }
 
-.header__nav-btn.active span:nth-of-type(3) {
-    width: 30px;
+.header__nav-btn.active span:nth-of-type(3) {    
     top: 50%;
     transform: translate(-50%, 0%) rotate(-45deg); 
 }
@@ -242,7 +240,7 @@ body {
     background: url('/img/main-view-mobile.png') bottom center/100% auto no-repeat;
     display: flex;
     flex-direction: column;     
-    height: 80vh;
+    height: 70vh;
     margin-bottom: 2.5rem;
 }
 
